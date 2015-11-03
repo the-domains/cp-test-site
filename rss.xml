@@ -4,7 +4,7 @@
         <description><![CDATA[CP Test Site]]></description>
         <link>https://thegrid.ai/cp-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 17:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 17:30:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cp-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Video Production services]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/cp-test-site/video-production-services/index.html</link>
             <guid isPermaLink="false">ebc13f77-1402-40f0-aaa0-8d0b9ebacb88</guid>
             <pubDate>Tue, 03 Nov 2015 17:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Company]]></title>
+            <description><![CDATA[<h1>About Company</h1>]]></description>
+            <link>https://thegrid.ai/cp-test-site/about-company/index.html</link>
+            <guid isPermaLink="false">13a47f08-9a06-4487-980e-44ed515b0bbd</guid>
+            <pubDate>Tue, 03 Nov 2015 17:30:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
