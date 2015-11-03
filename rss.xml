@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CP Test Site]]></title>
         <description><![CDATA[CP Test Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cp-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 17:21:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 17:24:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cp-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Video Production services]]></title>
+            <description><![CDATA[<h1>Video Production services</h1>]]></description>
+            <link>https://thegrid.ai/cp-test-site/video-production-services/index.html</link>
+            <guid isPermaLink="false">ebc13f77-1402-40f0-aaa0-8d0b9ebacb88</guid>
+            <pubDate>Tue, 03 Nov 2015 17:24:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c40788e7-8885-4331-8bbe-c3a76536effe.png">]]></description>
-            <link>undefinedc51f983f-6674-41f4-b5ee-ef1af55411e2/index.html</link>
+            <link>https://thegrid.ai/cp-test-site/c51f983f-6674-41f4-b5ee-ef1af55411e2/index.html</link>
             <guid isPermaLink="false">c51f983f-6674-41f4-b5ee-ef1af55411e2</guid>
             <pubDate>Tue, 03 Nov 2015 17:21:28 GMT</pubDate>
         </item>
