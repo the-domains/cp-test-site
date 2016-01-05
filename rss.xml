@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CP Test Site]]></title>
-        <description><![CDATA[CP Test Site]]></description>
+        <title><![CDATA[Cloud Pictures]]></title>
+        <description><![CDATA[Cloud Pictures]]></description>
         <link>https://thegrid.ai/cp-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 00:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 14:23:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cp-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[About Company]]></title>
-            <description><![CDATA[<h1>About Company</h1>]]></description>
+            <description><![CDATA[<article><h1>About Company</h1><p>Video production services:</p></article>]]></description>
             <link>https://thegrid.ai/cp-test-site/about-company/index.html</link>
             <guid isPermaLink="false">13a47f08-9a06-4487-980e-44ed515b0bbd</guid>
-            <pubDate>Tue, 03 Nov 2015 17:30:10 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 14:23:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
