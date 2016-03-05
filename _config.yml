@@ -1,4 +1,4 @@
-name: CP Test Site
+name: Cloud Pictures
 favicon: null
 layout_spectrum: 0.29034
 typography_spectrum: 0.63216
@@ -22,8 +22,8 @@ color:
     - '#ed217c'
     - '#40b649'
     - '#23a9e1'
-  brandStrength: 0.5
+  brandStrength: 0.3125
   lightness: 0.8125
-  saturation: 0.1875
+  saturation: 0.6875
   rhythmicContrast: 0
 purpose: []
